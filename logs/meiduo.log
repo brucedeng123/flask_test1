@@ -1,0 +1,603 @@
+INFO 2021-06-27 15:49:21,080 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-06-27 16:16:14,347 autoreload 251 F:\21_code\django_test\meiduo\meiduo\settings\dev.py changed, reloading.
+INFO 2021-06-27 16:16:16,455 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-06-27 16:16:16,670 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-06-27 16:16:16,671 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-04 20:42:50,117 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-05 20:19:55,715 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-05 20:20:37,822 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-07-05 20:29:06,422 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-08-22 14:03:37,697 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-08-22 20:37:40,593 basehttp 161 "GET / HTTP/1.1" 200 10633
+INFO 2021-08-22 20:37:40,753 basehttp 161 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2021-08-22 20:37:40,907 basehttp 161 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2021-08-22 20:37:40,911 basehttp 161 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2021-08-22 20:37:40,918 basehttp 161 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+WARNING 2021-08-22 20:37:40,991 log 230 Not Found: /favicon.ico
+WARNING 2021-08-22 20:37:41,200 basehttp 161 "GET /favicon.ico HTTP/1.1" 404 2110
+INFO 2021-08-22 20:39:16,345 basehttp 161 "GET /admin/ HTTP/1.1" 302 0
+INFO 2021-08-22 20:39:16,578 basehttp 161 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2216
+INFO 2021-08-22 20:39:16,608 basehttp 161 "GET /static/admin/css/base.css HTTP/1.1" 200 19513
+INFO 2021-08-22 20:39:16,613 basehttp 161 "GET /static/admin/css/login.css HTTP/1.1" 200 939
+INFO 2021-08-22 20:39:16,617 basehttp 161 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2271
+INFO 2021-08-22 20:39:16,621 basehttp 161 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+INFO 2021-08-22 20:39:16,626 basehttp 161 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+INFO 2021-08-22 20:39:30,425 basehttp 161 "POST /admin/login/?next=/admin/ HTTP/1.1" 200 2354
+INFO 2021-10-13 20:38:12,471 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-10-13 20:38:33,853 basehttp 161 "GET / HTTP/1.1" 200 10633
+INFO 2021-10-13 20:38:33,915 basehttp 161 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2021-10-13 20:38:34,033 basehttp 161 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2021-10-13 20:38:34,036 basehttp 161 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2021-10-13 20:38:34,064 basehttp 161 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+WARNING 2021-10-13 20:38:34,130 log 230 Not Found: /favicon.ico
+WARNING 2021-10-13 20:38:34,131 basehttp 161 "GET /favicon.ico HTTP/1.1" 404 2110
+WARNING 2021-10-13 20:40:54,322 log 230 Not Found: /index
+WARNING 2021-10-13 20:40:54,324 basehttp 161 "GET /index HTTP/1.1" 404 2092
+INFO 2021-10-13 20:41:28,499 basehttp 161 "GET /admin HTTP/1.1" 301 0
+INFO 2021-10-13 20:41:28,516 basehttp 161 "GET /admin/ HTTP/1.1" 302 0
+INFO 2021-10-13 20:41:28,949 basehttp 161 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2216
+INFO 2021-10-13 20:41:28,976 basehttp 161 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2271
+INFO 2021-10-13 20:41:28,981 basehttp 161 "GET /static/admin/css/login.css HTTP/1.1" 200 939
+INFO 2021-10-13 20:41:28,982 basehttp 161 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+INFO 2021-10-13 20:41:28,984 basehttp 161 "GET /static/admin/css/base.css HTTP/1.1" 200 19513
+INFO 2021-10-13 20:41:28,985 basehttp 161 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+INFO 2021-10-17 15:14:30,787 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-10-17 15:14:33,897 basehttp 161 "GET / HTTP/1.1" 200 10633
+INFO 2021-10-17 15:14:33,986 basehttp 161 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2021-10-17 15:14:34,323 basehttp 161 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2021-10-17 15:14:34,327 basehttp 161 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2021-10-17 15:14:34,407 basehttp 161 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+WARNING 2021-10-17 15:14:34,676 log 230 Not Found: /favicon.ico
+WARNING 2021-10-17 15:14:34,681 basehttp 161 "GET /favicon.ico HTTP/1.1" 404 2110
+INFO 2021-10-17 19:45:53,823 autoreload 251 F:\21_code\django_test\meiduo\meiduo\settings\dev.py changed, reloading.
+INFO 2021-10-17 19:45:55,476 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-10-17 19:46:09,903 autoreload 251 F:\21_code\django_test\meiduo\meiduo\settings\dev.py changed, reloading.
+INFO 2021-10-17 19:46:11,393 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-10-17 19:46:27,633 autoreload 251 F:\21_code\django_test\meiduo\meiduo\settings\dev.py changed, reloading.
+INFO 2021-10-17 19:46:29,131 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-10-17 19:46:36,851 autoreload 251 F:\21_code\django_test\meiduo\meiduo\settings\dev.py changed, reloading.
+INFO 2021-10-17 19:46:38,395 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-10-17 19:46:58,960 autoreload 251 F:\21_code\django_test\meiduo\meiduo\settings\dev.py changed, reloading.
+INFO 2021-10-17 19:47:00,456 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-10-17 19:47:38,642 autoreload 251 F:\21_code\django_test\meiduo\meiduo\settings\dev.py changed, reloading.
+INFO 2021-10-17 19:47:40,108 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-10-18 20:15:01,647 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-10-18 20:15:30,760 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-10-18 20:37:53,096 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-10-18 20:38:30,032 autoreload 251 F:\21_code\django_test\meiduo\meiduo\settings\dev.py changed, reloading.
+INFO 2021-10-18 20:38:31,511 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-10-18 20:43:26,064 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-10-18 21:00:33,918 autoreload 251 F:\21_code\django_test\meiduo\meiduo\settings\dev.py changed, reloading.
+INFO 2021-10-18 21:00:35,442 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-10-18 21:00:46,446 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-10-19 20:39:33,209 basehttp 161 "GET / HTTP/1.1" 200 10633
+INFO 2021-10-19 20:39:33,297 basehttp 161 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2021-10-19 20:39:33,384 basehttp 161 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2021-10-19 20:39:33,385 basehttp 161 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2021-10-19 20:39:33,408 basehttp 161 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+INFO 2021-11-14 12:49:45,384 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-11-14 13:04:03,384 basehttp 161 "GET / HTTP/1.1" 200 10633
+INFO 2021-11-14 13:04:03,404 basehttp 161 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2021-11-14 13:04:03,510 basehttp 161 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2021-11-14 13:04:03,518 basehttp 161 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2021-11-14 13:04:03,535 basehttp 161 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+WARNING 2021-11-14 13:04:03,629 log 230 Not Found: /favicon.ico
+WARNING 2021-11-14 13:04:03,632 basehttp 161 "GET /favicon.ico HTTP/1.1" 404 2110
+INFO 2021-12-19 17:04:45,958 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:04:51,060 basehttp 161 "GET / HTTP/1.1" 200 10633
+INFO 2021-12-19 17:04:51,094 basehttp 161 "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+INFO 2021-12-19 17:04:51,224 basehttp 161 "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+INFO 2021-12-19 17:04:51,224 basehttp 161 "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+INFO 2021-12-19 17:04:51,278 basehttp 161 "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+WARNING 2021-12-19 17:04:51,284 log 230 Not Found: /favicon.ico
+WARNING 2021-12-19 17:04:51,285 basehttp 161 "GET /favicon.ico HTTP/1.1" 404 2110
+INFO 2021-12-19 17:07:23,138 autoreload 251 F:\21_code\django_test\meiduo\meiduo\urls.py changed, reloading.
+INFO 2021-12-19 17:07:24,256 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:08:34,280 autoreload 251 F:\21_code\django_test\meiduo\meiduo\urls.py changed, reloading.
+INFO 2021-12-19 17:08:35,400 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:09:00,913 autoreload 251 F:\21_code\django_test\meiduo\meiduo\urls.py changed, reloading.
+INFO 2021-12-19 17:09:02,025 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:09:35,060 autoreload 251 F:\21_code\django_test\meiduo\meiduo\urls.py changed, reloading.
+INFO 2021-12-19 17:09:36,179 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:09:55,963 autoreload 251 F:\21_code\django_test\meiduo\meiduo\urls.py changed, reloading.
+INFO 2021-12-19 17:09:57,254 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:10:18,027 autoreload 251 F:\21_code\django_test\meiduo\meiduo\urls.py changed, reloading.
+INFO 2021-12-19 17:10:19,161 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:10:32,216 autoreload 251 F:\21_code\django_test\meiduo\meiduo\urls.py changed, reloading.
+INFO 2021-12-19 17:10:33,393 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:11:56,613 autoreload 251 F:\21_code\django_test\meiduo\meiduo\urls.py changed, reloading.
+INFO 2021-12-19 17:11:57,736 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:12:12,979 autoreload 251 F:\21_code\django_test\meiduo\meiduo\urls.py changed, reloading.
+INFO 2021-12-19 17:12:14,217 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:13:06,186 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:15:14,133 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\urls.py changed, reloading.
+INFO 2021-12-19 17:15:15,329 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:15:30,603 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\urls.py changed, reloading.
+INFO 2021-12-19 17:15:31,869 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:51:43,763 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\urls.py changed, reloading.
+INFO 2021-12-19 17:51:44,973 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:52:04,767 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\urls.py changed, reloading.
+INFO 2021-12-19 17:52:06,041 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:52:16,966 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\urls.py changed, reloading.
+INFO 2021-12-19 17:52:18,134 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:52:35,665 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\urls.py changed, reloading.
+INFO 2021-12-19 17:52:36,966 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:53:05,882 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\urls.py changed, reloading.
+INFO 2021-12-19 17:53:07,041 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:53:21,372 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\urls.py changed, reloading.
+INFO 2021-12-19 17:53:22,499 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:54:50,336 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\urls.py changed, reloading.
+INFO 2021-12-19 17:54:51,602 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:54:58,070 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\urls.py changed, reloading.
+INFO 2021-12-19 17:54:59,211 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:55:11,271 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\urls.py changed, reloading.
+INFO 2021-12-19 17:55:12,442 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:55:25,640 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\urls.py changed, reloading.
+INFO 2021-12-19 17:55:26,773 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:55:45,412 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\urls.py changed, reloading.
+INFO 2021-12-19 17:55:46,587 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:56:14,232 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\urls.py changed, reloading.
+INFO 2021-12-19 17:56:15,641 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:56:21,063 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\urls.py changed, reloading.
+INFO 2021-12-19 17:56:22,393 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:56:34,366 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\urls.py changed, reloading.
+INFO 2021-12-19 17:56:35,518 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:56:45,333 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\urls.py changed, reloading.
+INFO 2021-12-19 17:56:46,483 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:56:55,106 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\urls.py changed, reloading.
+INFO 2021-12-19 17:56:56,396 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:57:02,831 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\urls.py changed, reloading.
+INFO 2021-12-19 17:57:03,978 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:57:15,958 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\urls.py changed, reloading.
+INFO 2021-12-19 17:57:17,110 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:57:26,887 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\urls.py changed, reloading.
+INFO 2021-12-19 17:57:28,219 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:57:37,928 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\urls.py changed, reloading.
+INFO 2021-12-19 17:57:39,204 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:57:46,873 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\urls.py changed, reloading.
+INFO 2021-12-19 17:57:48,198 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-19 17:59:02,729 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-12-19 17:59:05,490 log 230 Not Found: /
+WARNING 2021-12-19 17:59:05,491 basehttp 161 "GET / HTTP/1.1" 404 2256
+INFO 2021-12-19 17:59:19,495 basehttp 161 "GET /admin HTTP/1.1" 301 0
+INFO 2021-12-19 17:59:19,511 basehttp 161 "GET /admin/ HTTP/1.1" 302 0
+INFO 2021-12-19 17:59:19,683 basehttp 161 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2216
+INFO 2021-12-19 17:59:19,716 basehttp 161 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2271
+INFO 2021-12-19 17:59:19,719 basehttp 161 "GET /static/admin/css/base.css HTTP/1.1" 200 19513
+INFO 2021-12-19 17:59:19,721 basehttp 161 "GET /static/admin/css/login.css HTTP/1.1" 200 939
+INFO 2021-12-19 17:59:19,721 basehttp 161 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 1360
+INFO 2021-12-19 17:59:19,722 basehttp 161 "GET /static/admin/css/responsive.css HTTP/1.1" 200 18545
+WARNING 2021-12-19 17:59:59,680 log 230 Not Found: /sms_codes/15830600956
+WARNING 2021-12-19 17:59:59,681 basehttp 161 "GET /sms_codes/15830600956 HTTP/1.1" 404 2337
+INFO 2021-12-19 18:01:19,706 autoreload 251 F:\21_code\django_test\meiduo\meiduo\settings\dev.py changed, reloading.
+INFO 2021-12-19 18:01:22,358 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-12-19 18:01:23,261 log 230 Not Found: /sms_codes/15830600956
+WARNING 2021-12-19 18:01:23,265 basehttp 161 "GET /sms_codes/15830600956 HTTP/1.1" 404 179
+INFO 2021-12-19 18:01:23,633 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-26 13:39:38,076 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-12-26 13:39:45,536 log 230 Not Found: /
+WARNING 2021-12-26 13:39:45,538 basehttp 161 "GET / HTTP/1.1" 404 179
+WARNING 2021-12-26 13:39:45,855 log 230 Not Found: /favicon.ico
+WARNING 2021-12-26 13:39:45,857 basehttp 161 "GET /favicon.ico HTTP/1.1" 404 179
+INFO 2021-12-26 14:04:54,800 basehttp 161 "GET /admin HTTP/1.1" 301 0
+INFO 2021-12-26 14:04:54,818 basehttp 161 "GET /admin/ HTTP/1.1" 302 0
+INFO 2021-12-26 14:04:55,041 basehttp 161 "GET /admin/login/?next=/admin/ HTTP/1.1" 200 2216
+WARNING 2021-12-26 14:04:55,062 log 230 Not Found: /static/admin/css/base.css
+WARNING 2021-12-26 14:04:55,066 log 230 Not Found: /static/admin/css/nav_sidebar.css
+WARNING 2021-12-26 14:04:55,067 basehttp 161 "GET /static/admin/css/base.css HTTP/1.1" 404 179
+WARNING 2021-12-26 14:04:55,068 basehttp 161 "GET /static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+WARNING 2021-12-26 14:04:55,072 log 230 Not Found: /static/admin/css/login.css
+WARNING 2021-12-26 14:04:55,076 log 230 Not Found: /static/admin/css/responsive.css
+WARNING 2021-12-26 14:04:55,079 log 230 Not Found: /static/admin/js/nav_sidebar.js
+WARNING 2021-12-26 14:04:55,080 basehttp 161 "GET /static/admin/css/login.css HTTP/1.1" 404 179
+WARNING 2021-12-26 14:04:55,080 basehttp 161 "GET /static/admin/css/responsive.css HTTP/1.1" 404 179
+WARNING 2021-12-26 14:04:55,085 basehttp 161 "GET /static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+WARNING 2021-12-26 14:05:48,638 log 230 Not Found: /sms_codes
+WARNING 2021-12-26 14:05:48,639 basehttp 161 "GET /sms_codes HTTP/1.1" 404 179
+INFO 2021-12-26 14:07:08,875 autoreload 251 F:\21_code\django_test\meiduo\meiduo\settings\dev.py changed, reloading.
+INFO 2021-12-26 14:07:10,207 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-26 14:07:18,398 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-12-26 14:07:26,894 log 230 Not Found: /sms_codes
+WARNING 2021-12-26 14:07:26,895 basehttp 161 "GET /sms_codes HTTP/1.1" 404 2301
+WARNING 2021-12-26 14:07:37,173 log 230 Not Found: /sms_codes/15830600956
+WARNING 2021-12-26 14:07:37,173 basehttp 161 "GET /sms_codes/15830600956 HTTP/1.1" 404 2337
+INFO 2021-12-26 14:13:49,864 autoreload 637 Watching for file changes with StatReloader
+WARNING 2021-12-26 14:13:57,132 log 230 Not Found: /sms_codes/15830600956
+WARNING 2021-12-26 14:13:57,133 basehttp 161 "GET /sms_codes/15830600956 HTTP/1.1" 404 2336
+WARNING 2021-12-26 14:14:01,022 log 230 Not Found: /sms_codes/15830600956
+WARNING 2021-12-26 14:14:01,022 basehttp 161 "GET /sms_codes/15830600956 HTTP/1.1" 404 2336
+WARNING 2021-12-26 14:14:02,007 log 230 Not Found: /sms_codes/15830600956
+WARNING 2021-12-26 14:14:02,008 basehttp 161 "GET /sms_codes/15830600956 HTTP/1.1" 404 2336
+WARNING 2021-12-26 14:14:02,656 log 230 Not Found: /sms_codes/15830600956
+WARNING 2021-12-26 14:14:02,658 basehttp 161 "GET /sms_codes/15830600956 HTTP/1.1" 404 2336
+WARNING 2021-12-26 14:14:02,932 log 230 Not Found: /sms_codes/15830600956
+WARNING 2021-12-26 14:14:02,932 basehttp 161 "GET /sms_codes/15830600956 HTTP/1.1" 404 2336
+WARNING 2021-12-26 14:14:03,180 log 230 Not Found: /sms_codes/15830600956
+WARNING 2021-12-26 14:14:03,181 basehttp 161 "GET /sms_codes/15830600956 HTTP/1.1" 404 2336
+INFO 2021-12-26 14:14:36,051 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\urls.py changed, reloading.
+INFO 2021-12-26 14:14:37,535 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-26 14:23:19,415 autoreload 637 Watching for file changes with StatReloader
+INFO 2021-12-26 14:23:25,705 basehttp 161 "GET /sms_codes/15830600956 HTTP/1.1" 301 0
+ERROR 2021-12-26 14:23:26,181 log 230 Internal Server Error: /sms_codes/15830600956/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\utils\connection.py", line 58, in __getitem__
+    return getattr(self._connections, alias)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\asgiref\local.py", line 107, in __getattr__
+    raise AttributeError(f"{self!r} object has no attribute {key!r}")
+AttributeError: <asgiref.local.Local object at 0x0000018B62636DD8> object has no attribute 'verify_code'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "F:\21_code\django_test\meiduo\meiduo\apps\verifications\views.py", line 17, in get
+    redis_conn = get_redis_connection('verify_code')
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django_redis\__init__.py", line 12, in get_redis_connection
+    cache = caches[alias]
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\utils\connection.py", line 61, in __getitem__
+    raise self.exception_class(f"The connection '{alias}' doesn't exist.")
+django.core.cache.backends.base.InvalidCacheBackendError: The connection 'verify_code' doesn't exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\settings.py", line 177, in import_from_string
+    return import_string(val)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\utils\module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "c:\users\administrator\appdata\local\programs\python\python36\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 941, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 941, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 953, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'meiduo_mall'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 463, in handle_exception
+    exception_handler = self.get_exception_handler()
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 298, in get_exception_handler
+    return self.settings.EXCEPTION_HANDLER
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\settings.py", line 225, in __getattr__
+    val = perform_import(val, attr)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\settings.py", line 166, in perform_import
+    return import_from_string(val, setting_name)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\settings.py", line 180, in import_from_string
+    raise ImportError(msg)
+ImportError: Could not import 'meiduo_mall.utils.exceptions.exception_handler' for API setting 'EXCEPTION_HANDLER'. ModuleNotFoundError: No module named 'meiduo_mall'.
+ERROR 2021-12-26 14:23:26,202 basehttp 161 "GET /sms_codes/15830600956/ HTTP/1.1" 500 155279
+INFO 2021-12-26 14:23:50,896 autoreload 637 Watching for file changes with StatReloader
+ERROR 2021-12-26 14:24:00,317 log 230 Internal Server Error: /sms_codes/15830600956/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\utils\connection.py", line 58, in __getitem__
+    return getattr(self._connections, alias)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\asgiref\local.py", line 107, in __getattr__
+    raise AttributeError(f"{self!r} object has no attribute {key!r}")
+AttributeError: <asgiref.local.Local object at 0x0000020A9B9E6DD8> object has no attribute 'verify_code'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "F:\21_code\django_test\meiduo\meiduo\apps\verifications\views.py", line 17, in get
+    redis_conn = get_redis_connection('verify_code')
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django_redis\__init__.py", line 12, in get_redis_connection
+    cache = caches[alias]
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\utils\connection.py", line 61, in __getitem__
+    raise self.exception_class(f"The connection '{alias}' doesn't exist.")
+django.core.cache.backends.base.InvalidCacheBackendError: The connection 'verify_code' doesn't exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\settings.py", line 177, in import_from_string
+    return import_string(val)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\utils\module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "c:\users\administrator\appdata\local\programs\python\python36\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 941, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 941, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 953, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'meiduo_mall'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 463, in handle_exception
+    exception_handler = self.get_exception_handler()
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 298, in get_exception_handler
+    return self.settings.EXCEPTION_HANDLER
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\settings.py", line 225, in __getattr__
+    val = perform_import(val, attr)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\settings.py", line 166, in perform_import
+    return import_from_string(val, setting_name)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\settings.py", line 180, in import_from_string
+    raise ImportError(msg)
+ImportError: Could not import 'meiduo_mall.utils.exceptions.exception_handler' for API setting 'EXCEPTION_HANDLER'. ModuleNotFoundError: No module named 'meiduo_mall'.
+ERROR 2021-12-26 14:24:00,330 basehttp 161 "GET /sms_codes/15830600956/ HTTP/1.1" 500 155279
+INFO 2021-12-26 18:55:21,864 autoreload 637 Watching for file changes with StatReloader
+ERROR 2021-12-26 18:55:30,649 log 230 Internal Server Error: /sms_codes/15830600956/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\utils\connection.py", line 58, in __getitem__
+    return getattr(self._connections, alias)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\asgiref\local.py", line 107, in __getattr__
+    raise AttributeError(f"{self!r} object has no attribute {key!r}")
+AttributeError: <asgiref.local.Local object at 0x000001FB137F6DD8> object has no attribute 'verify_code'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "F:\21_code\django_test\meiduo\meiduo\apps\verifications\views.py", line 17, in get
+    redis_conn = get_redis_connection('verify_code')
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django_redis\__init__.py", line 12, in get_redis_connection
+    cache = caches[alias]
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\utils\connection.py", line 61, in __getitem__
+    raise self.exception_class(f"The connection '{alias}' doesn't exist.")
+django.core.cache.backends.base.InvalidCacheBackendError: The connection 'verify_code' doesn't exist.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\settings.py", line 177, in import_from_string
+    return import_string(val)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\utils\module_loading.py", line 17, in import_string
+    module = import_module(module_path)
+  File "c:\users\administrator\appdata\local\programs\python\python36\lib\importlib\__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 941, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 941, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 953, in _find_and_load_unlocked
+ModuleNotFoundError: No module named 'meiduo_mall'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 463, in handle_exception
+    exception_handler = self.get_exception_handler()
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 298, in get_exception_handler
+    return self.settings.EXCEPTION_HANDLER
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\settings.py", line 225, in __getattr__
+    val = perform_import(val, attr)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\settings.py", line 166, in perform_import
+    return import_from_string(val, setting_name)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\settings.py", line 180, in import_from_string
+    raise ImportError(msg)
+ImportError: Could not import 'meiduo_mall.utils.exceptions.exception_handler' for API setting 'EXCEPTION_HANDLER'. ModuleNotFoundError: No module named 'meiduo_mall'.
+ERROR 2021-12-26 18:55:30,660 basehttp 161 "GET /sms_codes/15830600956/ HTTP/1.1" 500 155279
+INFO 2021-12-26 18:56:12,859 autoreload 637 Watching for file changes with StatReloader
+ERROR 2021-12-26 18:56:13,948 log 230 Internal Server Error: /sms_codes/15830600956/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\utils\connection.py", line 58, in __getitem__
+    return getattr(self._connections, alias)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\asgiref\local.py", line 107, in __getattr__
+    raise AttributeError(f"{self!r} object has no attribute {key!r}")
+AttributeError: <asgiref.local.Local object at 0x0000019FD8BD6DD8> object has no attribute 'verify_code'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "F:\21_code\django_test\meiduo\meiduo\apps\verifications\views.py", line 17, in get
+    redis_conn = get_redis_connection('verify_code')
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django_redis\__init__.py", line 12, in get_redis_connection
+    cache = caches[alias]
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\utils\connection.py", line 61, in __getitem__
+    raise self.exception_class(f"The connection '{alias}' doesn't exist.")
+django.core.cache.backends.base.InvalidCacheBackendError: The connection 'verify_code' doesn't exist.
+ERROR 2021-12-26 18:56:13,955 basehttp 161 "GET /sms_codes/15830600956/ HTTP/1.1" 500 112053
+INFO 2022-01-03 20:16:47,915 autoreload 637 Watching for file changes with StatReloader
+WARNING 2022-01-03 20:16:52,843 log 230 Not Found: /
+WARNING 2022-01-03 20:16:52,844 basehttp 161 "GET / HTTP/1.1" 404 2250
+WARNING 2022-01-03 20:16:53,112 log 230 Not Found: /favicon.ico
+WARNING 2022-01-03 20:16:53,115 basehttp 161 "GET /favicon.ico HTTP/1.1" 404 2301
+INFO 2022-01-03 20:17:27,834 basehttp 161 "GET /sms_codes/15830600956 HTTP/1.1" 301 0
+ERROR 2022-01-03 20:17:28,304 log 230 Internal Server Error: /sms_codes/15830600956/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\utils\connection.py", line 58, in __getitem__
+    return getattr(self._connections, alias)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\asgiref\local.py", line 107, in __getattr__
+    raise AttributeError(f"{self!r} object has no attribute {key!r}")
+AttributeError: <asgiref.local.Local object at 0x000002A738787DA0> object has no attribute 'verify_code'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "F:\21_code\django_test\meiduo\meiduo\apps\verifications\views.py", line 17, in get
+    redis_conn = get_redis_connection('verify_code')
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django_redis\__init__.py", line 12, in get_redis_connection
+    cache = caches[alias]
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\utils\connection.py", line 61, in __getitem__
+    raise self.exception_class(f"The connection '{alias}' doesn't exist.")
+django.core.cache.backends.base.InvalidCacheBackendError: The connection 'verify_code' doesn't exist.
+ERROR 2022-01-03 20:17:28,311 basehttp 161 "GET /sms_codes/15830600956/ HTTP/1.1" 500 112221
+INFO 2022-01-03 21:02:26,888 autoreload 637 Watching for file changes with StatReloader
+WARNING 2022-01-03 21:02:31,075 log 230 Not Found: /
+WARNING 2022-01-03 21:02:31,079 basehttp 161 "GET / HTTP/1.1" 404 2250
+WARNING 2022-01-03 21:02:31,343 log 230 Not Found: /favicon.ico
+WARNING 2022-01-03 21:02:31,344 basehttp 161 "GET /favicon.ico HTTP/1.1" 404 2301
+INFO 2022-01-03 21:03:14,204 basehttp 161 "GET /sms_codes/15830600956 HTTP/1.1" 301 0
+ERROR 2022-01-03 21:03:14,800 log 230 Internal Server Error: /sms_codes/15830600956/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "F:\21_code\django_test\meiduo\meiduo\apps\verifications\views.py", line 18, in get
+    redis_conn.setex('sms_%s' % mobile, constants.SMS_CODE_REDIS_EXPIRES)
+TypeError: setex() missing 1 required positional argument: 'value'
+ERROR 2022-01-03 21:03:14,804 basehttp 161 "GET /sms_codes/15830600956/ HTTP/1.1" 500 95924
+INFO 2022-01-03 21:05:26,269 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\views.py changed, reloading.
+INFO 2022-01-03 21:05:27,503 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-01-03 21:13:42,186 autoreload 637 Watching for file changes with StatReloader
+ERROR 2022-01-03 21:13:43,487 log 230 Internal Server Error: /sms_codes/15830600956/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "F:\21_code\django_test\meiduo\meiduo\apps\verifications\views.py", line 19, in get
+    CCP.send_template_sms(mobile,[sms_code,constants.SMS_CODE_REDIS_EXPIRES//60],1)
+TypeError: send_template_sms() missing 1 required positional argument: 'temp_id'
+ERROR 2022-01-03 21:13:43,491 basehttp 161 "GET /sms_codes/15830600956/ HTTP/1.1" 500 96011
+INFO 2022-01-03 21:15:37,082 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\views.py changed, reloading.
+INFO 2022-01-03 21:15:38,272 autoreload 637 Watching for file changes with StatReloader
+ERROR 2022-01-03 21:16:05,932 log 230 Internal Server Error: /sms_codes/15830600956/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+ERROR 2022-01-03 21:16:05,936 basehttp 161 "GET /sms_codes/15830600956/ HTTP/1.1" 500 83361
+INFO 2022-01-03 21:20:36,931 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\views.py changed, reloading.
+INFO 2022-01-03 21:20:38,183 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-01-03 21:21:14,944 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-01-03 21:21:29,857 autoreload 637 Watching for file changes with StatReloader
+ERROR 2022-01-03 21:21:52,506 log 230 Internal Server Error: /sms_codes/15830600956/
+Traceback (most recent call last):
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\core\handlers\exception.py", line 47, in inner
+    response = get_response(request)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\core\handlers\base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\django\views\generic\base.py", line 70, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "C:\Users\Administrator\Envs\django_test\lib\site-packages\rest_framework\views.py", line 426, in finalize_response
+    % type(response)
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'urllib3.response.HTTPResponse'>`
+ERROR 2022-01-03 21:21:52,510 basehttp 161 "GET /sms_codes/15830600956/ HTTP/1.1" 500 83569
+INFO 2022-01-03 21:22:53,546 autoreload 251 F:\21_code\django_test\meiduo\meiduo\apps\verifications\views.py changed, reloading.
+INFO 2022-01-03 21:22:54,724 autoreload 637 Watching for file changes with StatReloader
+INFO 2022-01-09 13:20:50,617 autoreload 637 Watching for file changes with StatReloader
+WARNING 2022-01-09 13:20:55,153 log 230 Not Found: /
+WARNING 2022-01-09 13:20:55,155 basehttp 161 "GET / HTTP/1.1" 404 2250
+WARNING 2022-01-09 13:20:55,331 log 230 Not Found: /favicon.ico
+WARNING 2022-01-09 13:20:55,332 basehttp 161 "GET /favicon.ico HTTP/1.1" 404 2301
+INFO 2022-01-09 13:23:54,637 basehttp 161 "GET /sms_codes/15830600956/ HTTP/1.1" 200 2
+INFO 2022-01-09 13:24:15,655 basehttp 161 "GET /sms_codes/15830600956/ HTTP/1.1" 200 2
